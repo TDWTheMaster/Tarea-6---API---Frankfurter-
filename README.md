@@ -1,16 +1,27 @@
-# tarea_6
+# Tarea 6 API Frankfurter
+# Currency Converter Web App  
 
-A new Flutter project.
+A web application for real-time and historical currency conversion using the Frankfurter API.  
 
-## Getting Started
+## Features  
+✅ **Real-Time Conversion**  
+   - Enter an amount and select base/target currencies.  
+   - Check exchange rates for a specific historical date.  
 
-This project is a starting point for a Flutter application.
+📅 **Rate History**  
+   - View recent exchange rates in a list.  
+   - Change the base currency to update displayed rates.  
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies  
+- **Frontend**: HTML, CSS, JavaScript  
+- **API**: [Frankfurter](https://api.frankfurter.app) (real-time and historical exchange rate data)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/TDWTheMaster/Tarea-6---API---Frankfurter-.git
+## 📔 License
+This project is licensed under the [MIT License](./LICENSE).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> [!IMPORTANT]
+This project was developed by: **Victor Sanchez**.
