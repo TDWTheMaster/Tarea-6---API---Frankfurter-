@@ -13,7 +13,7 @@ A web application for real-time and historical currency conversion using the Fra
    - Change the base currency to update displayed rates.  
 
 ## Technologies  
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: Flutter 
 - **API**: [Frankfurter](https://api.frankfurter.app) (real-time and historical exchange rate data)  
 
 ## Installation  
